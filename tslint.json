@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "quotemark": [true, "single"],
+    "indent": [true, "spaces", 4],
+    "no-console": false,
+    "class-name": true
+  },
+  "rulesDirectory": [
+  ]
+}
